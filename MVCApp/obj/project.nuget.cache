@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1Cy83u3YVVH93dxHFrkGAZTwhoGNtRIYbA/yxgKwbB8VdTPbXFNhdHjoXSroOGhvl90kGox0kgnOYlLXpOFUQ==",
+  "dgSpecHash": "MO1TIGyXNUZFvoyHoaHwX0PEd/p9k8Y0zrvTbQ95iPonDjtln2qv0PWTmpuCFhRXVZhtauluco6l2dNBaa+mfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\MVCApp\\MVCApp\\MVCApp.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\MVCApp\\AddDogsListWebApp\\MVCApp\\MVCApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
